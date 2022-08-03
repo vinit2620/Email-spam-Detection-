@@ -1,2 +1,2 @@
-# Email-spam-Detection-
-This Project Helps the user to Understand which email is spam or which is a ham email
+# email-spam-classifier-new
+End to end code for the email spam classifier project
